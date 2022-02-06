@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feverthoughts117
 - 👀 I’m interested in ...coding, and learning how to interpret software to hardware devices.
-- 🌱 I’m currently learning ...Computer Science 1
+- 🌱 I’m currently learning ...Computer Science
 - 💞️ I’m looking to collaborate on ...IDk
 - 📫 How to reach me ...through gitHub maybe?
 
